@@ -7,7 +7,7 @@ const questions = [
     {
         type: 'input',
         message: '',
-        name: '',
+        name: 'title',
     },
     {
         type: 'input',
@@ -31,6 +31,14 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
+
+    inquirer
+        .prompt(questions)
+        .then(response => {
+
+            const content = generateMarkdown(response);
+
+        })
 
 }
 
