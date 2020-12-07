@@ -53,13 +53,4 @@ function generateLicense(license) {
   
 }
 
-// console.log(generateMarkdown({
-//   title: "Testing",
-//   description: "Testing",
-//   tableOfContents: "One, Two, Three",
-//   installation: "NPM",
-//   usage: "see my video",
-//   license: "no idea"
-// }));
-
 module.exports = generateMarkdown;
