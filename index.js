@@ -30,7 +30,27 @@ const questions = [
         type: 'list',
         message: 'What license did you use for the project?',
         choices: ['Apache License 2.0', 'MIT License', 'Boost Software License 1.0', 'GNU General Public License 2.0', 'Mozilla Public License', 'The Unlicense']
-    }
+    },
+    {
+        name: 'contributing',
+        type: 'input',
+        message: 'Please enter the names of all collaborators on this project, separated by commas.',
+    },
+    {
+        name: 'tests',
+        type: 'input',
+        message: 'If you wrote any tests for your project, please list them here.',
+    },
+    {
+        name: 'github',
+        type: 'input',
+        message: 'What is your GitHub username?',
+    },
+    {
+        name: 'email',
+        type: 'input',
+        message: 'What is your email address?',
+    },
 
 ];
 

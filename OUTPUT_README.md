@@ -1,8 +1,8 @@
-# README Generator
+# Test
 
   ## Description
 
-  The purpose of this project is to generate a professional README using node
+  Test
 
   ## Table of Contents
 
@@ -14,14 +14,28 @@
 
   ## Installation
 
-  You must verify that there is a package.json file in your folder and then properly install the respective dependencies in your terminal
+  Test
 
   ## Usage
 
-  Once could use this to quicly format and create a README that captures the minimum amount of information necessary
+  Test
 
   ## License
 
-  MIT License
+  Apache License 2.0
+
+  ## Contributing
+
+  me, myself, i
+  
+  ## Tests
+
+  no
+
+  ## Questions
+  
+  * [GitHub: elizabethbrandt](https://github.com/elizabethbrandt)
+
+  * [Email: elizabeth.brandt824@gmail.com](mailto:elizabeth.brandt824@gmail.com)
   
   
