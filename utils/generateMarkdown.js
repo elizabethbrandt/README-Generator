@@ -15,6 +15,12 @@ function generateMarkdown(data) {
 
   * [License](#license)
 
+  * [Contributing](#contributing)
+
+  * [Tests](#tests)
+
+  * [Questions](#questions)
+
   ${generateInstallation(data.installation)}
 
   ${generateUsage(data.usage)}
@@ -96,7 +102,6 @@ function generateBadge(license) {
   }
 
 }
-
 
 function generateContributing(contributing) {
 

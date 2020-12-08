@@ -1,10 +1,10 @@
-# test
+# README Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  test
+  The purpose of this project is to generate a professional README using node.
 
   ## Table of Contents
 
@@ -14,13 +14,19 @@
 
   * [License](#license)
 
+  * [Contributing](#contributing)
+
+  * [Tests](#tests)
+
+  * [Questions](#questions)
+
   ## Installation
 
-  test
+  You must verify that there is a package.json file in your folder and then properly install the respective dependencies in your terminal.
 
   ## Usage
 
-  test
+  One could use this to quickly format and create a README that captures the minimum amount of necessary information.
 
   ## License
 
@@ -28,18 +34,18 @@
 
   ## Contributing
 
-  test
+  Me, myself, and some help from TAs
   
   ## Tests
 
-  test
+  I don't know much about tests yet, so I did not.
 
   ## Questions
 
   If you have additional questions, please feel free to explore my GitHub profile or send me an email.
   
-  * [GitHub: test](https://github.com/test)
+  * [GitHub: elizabethbrandt](https://github.com/elizabethbrandt)
 
-  * [Email: test](mailto:test)
+  * [Email: elizabeth.brandt824@gmail.com](mailto:elizabeth.brandt824@gmail.com)
   
   
